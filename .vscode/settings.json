@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "HTTPTest.sln",
+    "cmake.configureOnOpen": false
+}

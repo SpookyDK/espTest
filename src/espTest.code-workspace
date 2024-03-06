@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Controller",
+			"path": "../../../Documents/PlatformIO/Projects/Controller"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "HTTPTest.sln"
+	}
+}
